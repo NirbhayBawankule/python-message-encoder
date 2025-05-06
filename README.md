@@ -1,5 +1,6 @@
 # python-message-encoder
 A simple Python script that encodes and decodes messages by shifting characters and adding random padding
+
 🔐 Python Message Encoder & Decoder
 
 A beginner-friendly Python project that lets you encode and decode secret messages using simple transformations and random noise. Built using basic string manipulation and randomness — great for learning and fun!
